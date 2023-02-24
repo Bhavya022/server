@@ -1,0 +1,22 @@
+{"users":[
+    {
+      "name": "Bhavya",
+      "email": "bhavya@bridal.com", 
+      "lastname":"kapoor",
+      "password": "db@1234",
+      "mobile": "mobile 4",
+      "id": "4"
+    },
+    {
+      "name": "Ritik",
+      "email": "ritik@gmail.com", 
+      "lastname":"Rana",
+      "password": "db@1234",
+      "mobile": "mobile 6",
+      "id": "6"
+    }
+
+  ]}
+
+
+
